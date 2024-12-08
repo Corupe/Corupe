@@ -8,13 +8,14 @@ on:
 jobs:
   generate_snake:
     runs-on: ubuntu-latest
-
+      
     steps:
-      - name: Checkout repository
+      - name: Clone repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake
+      - name: Generate GitHub Snake in './dist/'
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }} 
           outputs: |
