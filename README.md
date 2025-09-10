@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meziouad+Ali+Soufiane)](https://git.io/typing-svg)
-<br>Web developer | Graphic Designer <br>Currently learning golang<br>ask me about anything !!  
+<br>Web developer | Graphic Designer   
 
 
 # 💻 Tech Stack:
